@@ -31,7 +31,7 @@
     "snow": "",
     "uniqCompNum": 11,
     "versionPublish": "4.11.9",
-    "favicon": "@PROJECT_PATH@/assets/images/a-2-70x582.png",
+    "favicon": "@PROJECT_PATH@/assets/images/a-2-70x580.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -151,7 +151,7 @@
             "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/-PeGDSqYmYk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=-PeGDSqYmYk",
+              "rawUrl": "https://www.youtube.com/embed/-PeGDSqYmYk?rel=0&showinfo=0&autoplay=1&loop=0",
               "width": 1280,
               "height": 720
             },
@@ -237,7 +237,7 @@
             "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/YkBGTseIu_I?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=YkBGTseIu_I",
+              "rawUrl": "https://www.youtube.com/embed/YkBGTseIu_I?rel=0&showinfo=0&autoplay=1&loop=0",
               "width": 1280,
               "height": 720
             },
